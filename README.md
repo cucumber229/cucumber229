@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cucumber229
+- 👀 I’m interested in proggraming
+- 🌱 I’m currently learning python and c++
+-
